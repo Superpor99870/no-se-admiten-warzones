@@ -7757,5 +7757,47 @@
     },
     "done": true
   },
+  "obs:phases/dirt_1": {
+    "criteria": {
+      "requirement": "2025-08-11 00:20:13 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_2": {
+    "criteria": {
+      "requirement": "2025-08-11 00:23:38 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/dirt_2": {
+    "criteria": {
+      "requirement": "2025-08-11 00:25:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-11 00:30:22 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/plant": {
+    "criteria": {
+      "requirement": "2025-08-11 00:29:56 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/sapling": {
+    "criteria": {
+      "requirement": "2025-08-11 00:29:46 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_3": {
+    "criteria": {
+      "requirement": "2025-08-11 00:31:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
