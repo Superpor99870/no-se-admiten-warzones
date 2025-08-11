@@ -225,3 +225,13 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 [00:34:35] [Server thread/INFO]: siganconsumiendo has made the advancement [What a Deal!]
 [00:34:35] [Server thread/INFO]: siganconsumiendo has made the advancement [Woodlands]
 [00:34:40] [Server thread/INFO]: siganconsumiendo has made the advancement [#PlantATree]
+[00:37:37] [Server thread/INFO]: siganconsumiendo fell out of the world
+[00:38:33] [Server thread/INFO]: Villager cmk['Mysterious Trader 🧪'/169, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[00:38:33] [Server thread/INFO]: Named entity cmk['Mysterious Trader 🧪'/169, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[00:39:57] [Server thread/INFO]: siganconsumiendo has made the advancement [Found Land]
+[00:45:18] [Server thread/INFO]: siganconsumiendo lost connection: Disconnected
+[00:45:18] [Server thread/INFO]: siganconsumiendo left the game
+[00:45:35] [Server thread/INFO]: Villager cmk['Mysterious Trader 🧪'/295, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[00:45:35] [Server thread/INFO]: Named entity cmk['Mysterious Trader 🧪'/295, l='ServerLevel[Oneblock Original v3.0.2]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[00:46:09] [Server thread/INFO]: Akukis lost connection: Disconnected
+[00:46:09] [Server thread/INFO]: Akukis left the game

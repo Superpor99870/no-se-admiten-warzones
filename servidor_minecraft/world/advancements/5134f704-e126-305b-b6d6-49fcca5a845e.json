@@ -7775,6 +7775,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-11 00:32:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-08-11 00:30:22 +0000"
@@ -7790,6 +7796,18 @@
   "obs:ob/sapling": {
     "criteria": {
       "requirement": "2025-08-11 00:29:46 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/cobblemania": {
+    "criteria": {
+      "requirement": "2025-08-11 00:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-08-11 00:34:16 +0000"
     },
     "done": true
   },
